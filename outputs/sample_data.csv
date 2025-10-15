@@ -1,0 +1,7 @@
+latitude,longitude,parameter,value,unit,datetime,location,city,country,date,hour,weekday,month,season,day_night
+39.9042,116.4074,pm25,180,ug/m3,2025-05-01 08:00:00+00:00,Station A,Beijing,CN,2025-05-01,8,3,5,spring,day
+39.9142,116.4174,pm25,95,ug/m3,2025-05-01 20:00:00+00:00,Station B,Beijing,CN,2025-05-01,20,3,5,spring,night
+39.9242,116.4274,so2,120,ug/m3,2025-05-01 09:00:00+00:00,Station C,Beijing,CN,2025-05-01,9,3,5,spring,day
+39.9342,116.4374,no2,210,ug/m3,2025-05-01 10:00:00+00:00,Station D,Beijing,CN,2025-05-01,10,3,5,spring,day
+39.9442,116.4474,pm25,160,ug/m3,2025-05-02 07:00:00+00:00,Station E,Beijing,CN,2025-05-02,7,4,5,spring,day
+39.9542,116.4574,pm25,55,ug/m3,2025-05-02 22:00:00+00:00,Station F,Beijing,CN,2025-05-02,22,4,5,spring,night
