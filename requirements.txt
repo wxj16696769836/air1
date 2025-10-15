@@ -1,0 +1,29 @@
+# 中国环境监测数据时空分析项目依赖包
+
+# 数据处理
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 可视化
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# 地理空间分析
+geopandas>=0.12.0
+shapely>=1.8.0
+folium>=0.12.0
+
+# 机器学习
+scikit-learn>=1.1.0
+
+# 时间序列分析
+statsmodels>=0.13.0
+
+# 其他工具
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# 中文字体支持
+matplotlib-zh-font>=1.0.0
